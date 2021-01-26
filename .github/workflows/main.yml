@@ -19,7 +19,6 @@ env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}
   GKE_CLUSTER: my-cluster   # TODO: update to cluster name
   GKE_ZONE: europe-west3-a  # TODO: update to cluster zone
-  DEPLOYMENT_NAME: gke-test # TODO: update to deployment name
   IMAGE: my-environments
 
 jobs:
