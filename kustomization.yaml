@@ -5,4 +5,4 @@ resources:
 - manifests/service.yaml
 images:
 - name: PROJECT/IMAGE
-  newName: andriyvm/simple-todo-list-devops:1.0
+  newName: andriyvm/simple-todo-list-devops
